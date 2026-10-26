@@ -423,7 +423,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🎯 SkillGap AI")
+st.title("🎯 ProfileSync AI")
 st.caption("AI Resume–Job Matching & Skill Gap Analyzer  |  INTELLIQ SOLVEX · Dept. of AI&DS")
 
 if "resume_text" not in st.session_state:
